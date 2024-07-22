@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Ahmed Osman and I'm a machine learning student</p>
+<p align="left">My name is Ahmed Osman and I'm a Computer science student</p>
 
 ###
 
