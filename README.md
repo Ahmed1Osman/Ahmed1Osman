@@ -1,7 +1,7 @@
 [![MasterHead](https://www.webnetcreatives.net/wp-content/uploads/2020/09/artificial-intelligence-banner-purple.jpeg)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Ahmed Osman</h1>
-<h3 align="center">A Computer Science Student </h3>
+<h3 align="center"> Machine Learning Engineer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed1osman&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed1osman" /> </p>
 
